@@ -1,0 +1,6 @@
+---
+# tasks file for role1
+- name: jinja 2
+  template:
+      src: role.j2
+      dest: /home/amaan/abc.txt

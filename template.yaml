@@ -1,0 +1,5 @@
+--- 
+- name: tapmlate for role
+  hosts: target1
+  roles:
+    - role1
